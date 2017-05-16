@@ -1,1 +1,3 @@
-# lw_zmspiproject
+# Projekt ZMSPi
+
+Aktuelle Scripts / Dateien des Projektes

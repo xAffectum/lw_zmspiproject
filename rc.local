@@ -1,0 +1,5 @@
+#!/bin/sh -e
+if [ -e "/boot/interfaces" ]; then
+su - kiosk -c 'xinit' &
+fi
+exit 0
